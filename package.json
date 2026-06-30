@@ -1,0 +1,1 @@
+{`n  "name": "prazzon",`n  "version": "1.0.0",`n  "description": "A modern JavaScript utility library",`n  "main": "index.js",`n  "scripts": {`n    "test": "echo \"Error: no test specified\" && exit 1"`n  },`n  "keywords": ["javascript", "utils", "utilities", "helpers"],`n  "author": "mrshrawho",`n  "license": "MIT"`n}
